@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_image"
+        android:icon="@drawable/ic_menu_gallery"
+        android:title="@string/title_image" />
+
+    <item
+        android:id="@+id/navigation_text"
+        android:icon="@drawable/ic_short_text_black_24dp"
+        android:title="@string/title_text" />
+
+    <item
+        android:id="@+id/navigation_card"
+        android:icon="@drawable/ic_card_giftcard_black_24dp"
+        android:title="@string/title_card" />
+
+</menu>
